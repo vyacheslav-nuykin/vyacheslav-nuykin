@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Vyacheslav Nuykin
 
-<!--
-**vyacheslav-nuykin/vyacheslav-nuykin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer (Java/Spring Boot) | Learning to build scalable systems | Aiming to relocate to Norway 🇳🇴 | Open to collaboration
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 About Me
+
+I’m a self-taught developer from Russia, currently studying programming and aiming to work in Norway. I believe that **stability, growth, and a life by the fjord** are possible through hard work, clear goals, and continuous learning.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Java, SQL, Bash
+- **Frameworks**: Spring Boot, JPA/Hibernate
+- **Tools**: Git, Docker, PostgreSQL, IntelliJ IDEA
+- **Learning**: Go (Golang), Kubernetes basics, English (B2 target)
+
+---
+
+## 🎯 My Goal
+
+To become a **strong junior backend developer** and relocate to **Oslo, Norway** by 2026–2027. I’m building my portfolio step by step — one project at a time.
+
+---
+
+## 📂 Projects
+
+Check out my repositories:
+*(soon)*
+
+---
+
+## 📬 Contact
+
+- Email: [nujkinvaceslav@gmail.com](mailto:nujkinvaceslav@gmail.com)
+- LinkedIn: *(soon)*
+- Location: Russia → Oslo, Norway (future) 🏡
+
+---
+
+> *“The best way to predict the future is to create it.” — Peter Drucker*
+
+---
+
+## 🇳🇴 Why Norway?
+
+- High quality of life
+- Strong IT industry
+- Supportive work culture
+- Beautiful nature (fjords, mountains, northern lights)
+
+I’m ready to learn Norwegian, adapt to the culture, and contribute to a team that values **quality, collaboration, and innovation**.
