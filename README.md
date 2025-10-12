@@ -1,61 +1,93 @@
-# 👋 Hi, I'm Vyacheslav Nuykin
+<!-- 
+  ✨ README by Vyacheslav Nuykin
+  Goal: Junior Java Backend Engineer → Oslo, Norway 🇳🇴
+-->
 
-Backend Developer (Java/Spring Boot) | Learning to build scalable systems | Aiming to relocate to Norway 🇳🇴 | Open to collaboration
+<div align="center">
+
+# 👋 Hi, I'm **Vyacheslav Nuykin**
+
+### 🇳🇴 Aspiring Java Engineer | Self-Taught Since Age 12 | Student (3rd Year)  
+**Building production-ready Spring Boot apps • Learning English (B2 target) • Aiming for Norway after graduation**
+
+[![Java](https://img.shields.io/badge/Java-17+-ED8B00?logo=java&logoColor=white)](https://github.com/vyacheslav-nuykin)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16+-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![English](https://img.shields.io/badge/English-B1→B2_2026-blue?logo=duolingo)](https://github.com/vyacheslav-nuykin)
+[![Target](https://img.shields.io/badge/📍_Oslo,_Norway-Future_Goal-purple)](https://www.norway.no/)
+
+</div>
 
 ---
 
 ## 🌍 About Me
 
-I’m a self-taught developer from Russia, currently studying programming and aiming to work in Norway. I believe that **stability, growth, and a life by the fjord** are possible through hard work, clear goals, and continuous learning.
+I’m a **self-taught backend developer** from Russia, coding since **age 12**. Currently in my **3rd year of college** (graduating in 2027), I’ve built a strong foundation in **Java, Spring Boot, JPA, and Thymeleaf** through hands-on projects and focused learning (thanks to Гоша Дударь and relentless practice!).
 
----
-
-## 🛠️ Tech Stack
-
-- **Languages**: Java, SQL, Bash
-- **Frameworks**: Spring Boot, JPA/Hibernate
-- **Tools**: Git, PostgreSQL, IntelliJ IDEA
-- **Learning**: Go (Golang), Kubernetes basics, English (B2 target)
-
----
-
-## 🎯 My Goal
-
-To become a **strong junior backend developer** and relocate to **Oslo, Norway** by 2026–2027. I’m building my portfolio step by step — one project at a time.
-
----
-
-## 📂 Projects
-
-Here are my production-ready projects — built with clean code, love and attention to detail:
-
-- **[Expense Tracker](https://github.com/vyacheslav-nuykin/expense-tracker)**  
-  A Spring Boot web app to track personal expenses with categories, date validation, and PostgreSQL.  
-  `Java` `Spring Boot` `Thymeleaf` `PostgreSQL`
-
-- **[To-Do API](https://github.com/vyacheslav-nuykin/todo-api)**  
-  A RESTful API for managing tasks with full CRUD operations and JSON responses.  
-  `Java` `Spring Boot` `REST`
-
----
-
-## 📬 Contact
-
-- Email: [nujkinvaceslav@gmail.com](mailto:nujkinvaceslav@gmail.com)
-- LinkedIn: *(soon)*
-- Location: Russia → Oslo, Norway (future) 🏡
-
----
+My dream? To **join Norway’s IT industry** as a junior Java developer after graduation — work in a team that values clean code, grow professionally, and one day live near the fjords in a small house surrounded by nature.
 
 > *“The best way to predict the future is to create it.” — Peter Drucker*
 
 ---
 
+## 🛠️ Tech Stack
+
+| Category      | Technologies                                                                        |
+|---------------|-------------------------------------------------------------------------------------|
+| **Languages** | Java, SQL, Bash                                                                     |
+| **Backend**   | Spring Boot, Spring Web, Spring Data JPA, Hibernate                                 |
+| **Frontend**  | Thymeleaf (for server-side rendering)                                               |
+| **Database**  | PostgreSQL                                                                          |
+| **Tools**     | Git, GitHub, IntelliJ IDEA, Maven, REST Clients (Postman, curl)                     |
+| **Learning**  | Go (Golang), Kubernetes basics, Doker, English (target: B2 by end of 2026)          |
+
+---
+
+## 🚀 Projects
+
+> ✅ All projects are **production-ready**, with clean architecture, validation, and real DB integration.
+
+### 💰 [Expense Tracker](https://github.com/vyacheslav-nuykin/expense-tracker)
+A personal finance web app to log, categorize, and analyze daily expenses.  
+`Java` `Spring Boot` `Thymeleaf` `PostgreSQL` `MVC`
+
+### 📋 [To-Do API](https://github.com/vyacheslav-nuykin/todo-api)
+A RESTful backend for task management with full CRUD, JSON responses, and error handling.  
+`Java` `Spring Boot` `REST` `Spring Web`
+
+> 🎯 **Next**: Building 3 enterprise-style projects (Q4 2025 – Q2 2026)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Vyacheslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyacheslav-nuykin&show_icons=true&theme=radical&count_private=true)](https://github.com/vyacheslav-nuykin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyacheslav-nuykin&layout=compact&theme=radical)](https://github.com/vyacheslav-nuykin)
+
+</div>
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 Email: [nujkinvaceslav@gmail.com](mailto:nujkinvaceslav@gmail.com)
+- 💼 LinkedIn: *(coming soon)*
+- 🏡 Location: Russia | **Future**: Oslo, Norway (planning post-graduation)
+
+---
+
 ## 🇳🇴 Why Norway?
 
-- High quality of life
-- Strong IT industry
-- Supportive work culture
-- Beautiful nature (fjords, mountains, northern lights)
+- 🌲 **Nature**: Fjords, mountains, northern lights  
+- 💼 **IT Market**: High demand for Java/Spring engineers  
+- 🧊 **Culture**: Work-life balance, transparency, innovation  
+- 🏠 **Dream**: Own a small house on green hills near Oslo
 
-I’m ready to learn Norwegian, adapt to the culture, and contribute to a team that values **quality, collaboration, and innovation**.
+I’m actively preparing: improving my **English**, building **real projects**, and studying **enterprise practices** — so I can confidently apply to Norwegian companies **after graduation**.
+
+---
+
+> 🔥 **I code with purpose. I learn with discipline. I build for the future.**  
+> **Open to feedback, collaborations, and opportunities — especially from teams in Europe!**
