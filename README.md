@@ -27,7 +27,7 @@ To become a **strong junior backend developer** and relocate to **Oslo, Norway**
 
 ## 📂 Projects
 
-Here are my production-ready projects — built with clean code, real databases, and attention to detail:
+Here are my production-ready projects — built with clean code, love and attention to detail:
 
 - **[Expense Tracker](https://github.com/vyacheslav-nuykin/expense-tracker)**  
   A Spring Boot web app to track personal expenses with categories, date validation, and PostgreSQL.  
@@ -35,7 +35,7 @@ Here are my production-ready projects — built with clean code, real databases,
 
 - **[To-Do API](https://github.com/vyacheslav-nuykin/todo-api)**  
   A RESTful API for managing tasks with full CRUD operations and JSON responses.  
-  `Java` `Spring Boot` `REST` `JPA`
+  `Java` `Spring Boot` `REST`
 
 ---
 
