@@ -14,7 +14,7 @@ I’m a self-taught developer from Russia, currently studying programming and ai
 
 - **Languages**: Java, SQL, Bash
 - **Frameworks**: Spring Boot, JPA/Hibernate
-- **Tools**: Git, Docker, PostgreSQL, IntelliJ IDEA
+- **Tools**: Git, PostgreSQL, IntelliJ IDEA
 - **Learning**: Go (Golang), Kubernetes basics, English (B2 target)
 
 ---
