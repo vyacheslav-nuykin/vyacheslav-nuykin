@@ -28,7 +28,9 @@ To become a **strong junior backend developer** and relocate to **Oslo, Norway**
 ## 📂 Projects
 
 Check out my repositories:
+
 [To-Do api](https://github.com/vyacheslav-nuykin/todo-api)
+[Expense Tracker](https://github.com/vyacheslav-nuykin/expense-tracker)
 
 ---
 
