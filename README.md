@@ -2,7 +2,7 @@
   ✨ README by Vyacheslav Nuykin
   Goal: Junior Java Backend Engineer → Oslo, Norway 🇳🇴
 -->
-
+<!--
 <div align="center">
 
 # 👋 Hi, I'm **Vyacheslav Nuykin**
@@ -95,3 +95,6 @@ I’m actively preparing: improving my **English**, building **real projects**, 
 
 > 🔥 **I code with purpose. I learn with discipline. I build for the future.**  
 > **Open to feedback, collaborations, and opportunities — especially from teams in Europe!**
+-->
+
+![Profile](https://raw.githubusercontent.com/vyacheslav-nuykin/vyacheslav-nuykin/main/svg/identify.svg)
