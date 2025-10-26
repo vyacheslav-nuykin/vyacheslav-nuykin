@@ -52,7 +52,7 @@ A personal finance web app to log, categorize, and analyze daily expenses.
 `Java` `Spring Boot` `Thymeleaf` `PostgreSQL` `MVC`
 
 ### 📋 [To-Do API (v2)](https://github.com/vyacheslav-nuykin/todo-api-v2)
-**Enterprise-style RESTful API** with PostgreSQL, Swagger, Actuator, DTOs, and clean layered architecture.  
+**Enterprise-Grade RESTful API** with PostgreSQL, Swagger, Actuator, DTOs, and clean layered architecture.  
 `Java` `Spring Boot` `REST` `PostgreSQL` `OpenAPI` `Actuator`
 
 ### 📋 [To-Do API (v1)](https://github.com/vyacheslav-nuykin/todo-api)
