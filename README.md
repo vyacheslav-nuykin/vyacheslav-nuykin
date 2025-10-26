@@ -45,15 +45,19 @@ My dream? To **join Norway’s IT industry** as a junior Java developer after gr
 
 ## 🚀 Projects
 
-> ✅ All projects are **production-ready**, with clean architecture, validation, and real DB integration.
+> ✅ [todo-api-v2](https://github.com/vyacheslav-nuykin/todo-api-v2) and [expense-tracker](https://github.com/vyacheslav-nuykin/expense-tracker) are production-ready, with clean architecture, validation, and real DB integration.
 
 ### 💰 [Expense Tracker](https://github.com/vyacheslav-nuykin/expense-tracker)
 A personal finance web app to log, categorize, and analyze daily expenses.  
 `Java` `Spring Boot` `Thymeleaf` `PostgreSQL` `MVC`
 
-### 📋 [To-Do API](https://github.com/vyacheslav-nuykin/todo-api)
-A RESTful backend for task management with full CRUD, JSON responses, and error handling.  
-`Java` `Spring Boot` `REST` `Spring Web`
+### 📋 [To-Do API (v2)](https://github.com/vyacheslav-nuykin/todo-api-v2)
+**Enterprise-style RESTful API** with PostgreSQL, Swagger, Actuator, DTOs, and clean layered architecture.  
+`Java` `Spring Boot` `REST` `PostgreSQL` `OpenAPI` `Actuator`
+
+### 📋 [To-Do API (v1)](https://github.com/vyacheslav-nuykin/todo-api)
+Initial prototype with in-memory storage — my first REST API.  
+`Java` `Spring Boot` `In-Memory`
 
 > 🎯 **Next**: Building 3 enterprise-style projects (Q4 2025 – Q2 2026)
 
