@@ -24,4 +24,6 @@ My professional and personal dream is to **live and work in Norway** after gradu
 
 ---
 
-> I’m not escaping
+> I’m not escaping Russia.  
+> I’m **building a future** where code, nature, and balance coexist.  
+> Norway is not just a destination — it’s the environment where I can become absolute.
