@@ -98,3 +98,4 @@ I’m actively preparing: improving my **English**, building **real projects**, 
 -->
 
 ![Profile](https://raw.githubusercontent.com/vyacheslav-nuykin/vyacheslav-nuykin/main/svg/identify.svg)
+[📖 Full Profile](https://github.com/vyacheslav-nuykin/blob/main/PROFILE.md) • [🚀 Projects](https://github.com/vyacheslav-nuykin/blob/main/PROJECTS.md) • [🇳🇴 Norway Plan](https://github.com/vyacheslav-nuykin/blob/main/NORWAY.md)
