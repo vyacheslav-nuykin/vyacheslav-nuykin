@@ -4,6 +4,18 @@ All my projects follow **production-ready standards**: real database integration
 
 ---
 
+### 🐘 [Docker DB CLI](https://github.com/vyacheslav-nuykin/docker-db-cli)
+**Fast, secure CLI to launch database containers via Docker** — built for speed, automation, and local development.
+
+- `Python` `Docker` `CLI` `PostgreSQL` `MySQL` `Redis` `MongoDB`  
+- Features: idempotent runs, scriptable workflows, zero-config by default  
+- Includes ready-to-use `.bat` scripts for instant dev environments  
+- Optional GUI with YAML profiles (PyQt6)
+
+> Designed to eliminate setup friction — so I can focus on writing real code.
+
+---
+
 ### 📋 [To-Do API (v2)](https://github.com/vyacheslav-nuykin/todo-api-v2)
 **Enterprise-Grade RESTful API** — my step toward professional Java development.
 
