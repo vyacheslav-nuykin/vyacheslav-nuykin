@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/vyacheslav-nuykin/blob/main/PROFILE.md">Full Profile</a> • 
-  <a href="https://github.com/vyacheslav-nuykin/blob/main/PROJECTS.md">Projects</a> • 
-  <a href="https://github.com/vyacheslav-nuykin/blob/main/NORWAY.md">Norway Plan</a>
+  <a href="https://github.com/vyacheslav-nuykin/vyacheslav-nuykin/blob/main/PROFILE.md">Full Profile</a> • 
+  <a href="https://github.com/vyacheslav-nuykin/vyacheslav-nuykin/blob/main/PROJECTS.md">Projects</a> • 
+  <a href="https://github.com/vyacheslav-nuykin/vyacheslav-nuykin/blob/main/NORWAY.md">Norway Plan</a>
 </div>
