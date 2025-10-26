@@ -1,0 +1,73 @@
+<svg width="820" height="800" xmlns="http://www.w3.org/2000/svg">
+    <!-- Фон -->
+    <rect width="100%" height="100%" fill="#0d1117" rx="16" />
+
+    <!-- Имя -->
+    <text x="410" y="140" font-family="monospace, system-ui, sans-serif" font-size="36" fill="#ffffff"
+        text-anchor="middle">
+        Vyacheslav Nuykin
+    </text>
+
+    <!-- Подзаголовок -->
+    <text x="410" y="190" font-family="monospace, system-ui, sans-serif" font-size="18" fill="#ffffff"
+        text-anchor="middle" opacity="0.85">
+        Self-Taught Since Age 12 • Graduating 2027
+    </text>
+
+    <!-- Цель -->
+    <text x="410" y="240" font-family="monospace, system-ui, sans-serif" font-size="20" fill="#ffffff"
+        text-anchor="middle" opacity="0.9">
+        Junior Java Backend Engineer → Oslo, Norway
+    </text>
+
+    <!-- Разделитель -->
+    <line x1="310" y1="280" x2="510" y2="280" stroke="#ffffff" stroke-width="1" opacity="0.2" />
+
+    <!-- Философия -->
+    <text x="410" y="320" font-family="monospace, system-ui, sans-serif" font-size="16" fill="#ffffff"
+        text-anchor="middle" opacity="0.8">
+        “I = I + I — Becoming Absolute”
+    </text>
+
+    <!-- Цитата -->
+    <text x="410" y="360" font-family="monospace, system-ui, sans-serif" font-size="14" fill="#ffffff"
+        text-anchor="middle" opacity="0.65" font-style="italic">
+        “The best way to predict the future is to create it.” — Peter Drucker
+    </text>
+
+    <!-- Проекты -->
+    <text x="410" y="420" font-family="monospace, system-ui, sans-serif" font-size="16" fill="#ffffff"
+        text-anchor="middle" opacity="0.85">
+        Projects: todo-api-v2 (Enterprise) • expense-tracker (Production)
+    </text>
+
+    <!-- Стек -->
+    <text x="410" y="460" font-family="monospace, system-ui, sans-serif" font-size="14" fill="#ffffff"
+        text-anchor="middle" opacity="0.7">
+        Java • Spring Boot • PostgreSQL • Docker • English (B2 by 2026)
+    </text>
+
+    <!-- Roadmap -->
+    <text x="410" y="520" font-family="monospace, system-ui, sans-serif" font-size="16" fill="#ffffff"
+        text-anchor="middle" opacity="0.8">
+        🗺️ Russia → Norway → Tesla Roadster
+    </text>
+
+    <!-- Мечта -->
+    <text x="410" y="560" font-family="monospace, system-ui, sans-serif" font-size="15" fill="#ffffff"
+        text-anchor="middle" opacity="0.75">
+        🏡 Dream: A house near the fjords, surrounded by nature
+    </text>
+
+    <!-- Контакт -->
+    <text x="410" y="620" font-family="monospace, system-ui, sans-serif" font-size="14" fill="#ffffff"
+        text-anchor="middle" opacity="0.6">
+        nujkinvaceslav@gmail.com • github.com/vyacheslav-nuykin
+    </text>
+
+    <!-- Подпись -->
+    <text x="410" y="760" font-family="monospace, system-ui, sans-serif" font-size="11" fill="#ffffff"
+        text-anchor="middle" opacity="0.4">
+        Updated: Oct 26, 2025 | Built with purpose
+    </text>
+</svg>
