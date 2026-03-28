@@ -1,0 +1,28 @@
+<svg width="820" height="480" viewBox="0 0 820 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="820" height="480" rx="20" fill="#0d1117"/>
+  <rect width="820" height="480" rx="20" fill="url(#paint0_radial)" fill-opacity="0.3"/>
+  
+  <g filter="url(#filter0_d)">
+    <text x="410" y="180" text-anchor="middle" font-family="Georgia, serif" font-size="48" font-weight="300" fill="#ffffff" letter-spacing="-0.02em">Vyacheslav Nuykin</text>
+    <text x="410" y="220" text-anchor="middle" font-family="Verdana, sans-serif" font-size="12" font-weight="200" fill="#bdae8d" letter-spacing="0.5em" text-transform="uppercase">Software Engineer // Oslo</text>
+  </g>
+
+  <line x1="360" y1="260" x2="460" y2="260" stroke="#bdae8d" stroke-opacity="0.3" stroke-width="1"/>
+
+  <text x="410" y="310" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="18" fill="#ffffff" fill-opacity="0.7">“Becoming Absolute”</text>
+  
+  <g font-family="Verdana, sans-serif" font-size="10" fill="#8c857f" letter-spacing="0.1em">
+    <text x="410" y="380" text-anchor="middle">BACKEND • ARCHITECTURE • SCALABILITY</text>
+    <text x="410" y="440" text-anchor="middle" fill-opacity="0.4">EST. 2012 — UPDATED OCT 2026</text>
+  </g>
+
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(410 240) rotate(90) border-radius(500)">
+      <stop stop-color="#4682dc" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="filter0_d" x="0" y="0" width="820" height="480" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="4" stdDeviation="15" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+</svg>
