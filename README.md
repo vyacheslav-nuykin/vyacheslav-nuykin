@@ -6,4 +6,5 @@
   </picture>
 </div>
 
+
 <p align="center"><a href="https://github.com/vyacheslav-nuykin/vyacheslav-nuykin/blob/main/PROJECTS.md">Projects →</a></p>
