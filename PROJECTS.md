@@ -1,47 +1,61 @@
-# 🚀 Projects
+# Projects
 
-All my projects follow **production-ready standards**: real database integration, validation, clean layered architecture, and documentation.
-
----
-
-### 🐘 [Docker DB CLI](https://github.com/vyacheslav-nuykin/docker-db-cli)
-**Fast, secure CLI to launch database containers via Docker** — built for speed, automation, and local development.
-
-- `Python` `Docker` `CLI` `PostgreSQL` `MySQL` `Redis` `MongoDB`  
-- Features: idempotent runs, scriptable workflows, zero-config by default  
-- Includes ready-to-use `.bat` scripts for instant dev environments  
-- Optional GUI with YAML profiles (PyQt6)
-
-> Designed to eliminate setup friction — so I can focus on writing real code.
+Small, working systems. Each one runs and has a README of its own.
 
 ---
 
-### 📋 [To-Do API (v2)](https://github.com/vyacheslav-nuykin/todo-api-v2)
-**Enterprise-Grade RESTful API** — my step toward professional Java development.
+## [n1l.ru](https://n1l.ru) — personal infrastructure
 
-- `Java` `Spring Boot 3` `PostgreSQL` `REST`  
-- Features: DTOs, JPA, OpenAPI (Swagger), Actuator, global exception handling  
-- Architecture: Controller → Service → Repository → Entity
+Seven services, all live:
 
-> Built as a foundation for future microservices in Norway.
+- [n1l.ru](https://n1l.ru) — landing
+- [1lz.ru](https://1lz.ru) — landing
+- [go.n1l.ru](https://go.n1l.ru) — link shortener
+- [wiki.n1l.ru](https://wiki.n1l.ru) — wiki
+- [cdn.n1l.ru](https://cdn.n1l.ru) — static CDN
+- [dash.n1l.ru](https://dash.n1l.ru) — dashboard
+- [api.n1l.ru](https://api.n1l.ru) — static API
 
----
+Status: [api.n1l.ru/v1/status.json](https://api.n1l.ru/v1/status.json)
 
-### 💰 [Expense Tracker](https://github.com/vyacheslav-nuykin/expense-tracker)
-A personal finance web app with full CRUD and server-side rendering.
-
-- `Java` `Spring Boot` `Thymeleaf` `PostgreSQL` `MVC`  
-- Real-world use: daily expense logging, categorization, analysis
-
----
-
-### 📋 [To-Do API (v1)](https://github.com/vyacheslav-nuykin/todo-api)
-My first REST API — in-memory prototype.
-
-- `Java` `Spring Boot` `In-Memory Storage`  
-- Proof of concept: learning HTTP, controllers, JSON responses
+`HTML` `CSS` `JavaScript`
 
 ---
 
-> 🎯 **Next**: 3 enterprise-style projects (Q4 2025 – Q2 2026)  
-> Focus: resilience, observability, PostgreSQL 18 features, OAuth2 integration
+## [todo-api-v2](https://github.com/vyacheslav-nuykin/todo-api-v2) — RESTful Todo API
+
+Spring Boot 3 + PostgreSQL. Unit tests with JUnit 5, Mockito, and AssertJ.
+
+`Java` `Spring Boot` `PostgreSQL` `Docker`
+
+---
+
+## [expense-tracker](https://github.com/vyacheslav-nuykin/expense-tracker) — expense tracking app
+
+Server-side rendered personal finance app.
+
+`Java` `Spring Boot` `Thymeleaf` `PostgreSQL` `MVC`
+
+---
+
+## [my-first-go](https://github.com/vyacheslav-nuykin/my-first-go) — HTTP server
+
+Minimal Go HTTP server without frameworks. Multi-stage Dockerfile.
+
+`Go` `Docker`
+
+---
+
+## [my-first-csharp](https://github.com/vyacheslav-nuykin/my-first-csharp) — weather microservice
+
+ASP.NET Core 8 Minimal API. Fetches real-time weather from Open-Meteo.
+
+`C#` `ASP.NET Core` `Minimal API`
+
+---
+
+## [todo-api](https://github.com/vyacheslav-nuykin/todo-api) — first REST API
+
+In-memory prototype. Kept for reference.
+
+`Java` `Spring Boot`
