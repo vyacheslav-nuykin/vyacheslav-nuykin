@@ -6,15 +6,14 @@ Small, working systems. Each one runs and has a README of its own.
 
 ## [n1l.ru](https://n1l.ru) — personal infrastructure
 
-Seven services, all live:
+Seven services running on my own domain:
 
-- [n1l.ru](https://n1l.ru) — landing
-- [1lz.ru](https://1lz.ru) — landing
-- [go.n1l.ru](https://go.n1l.ru) — link shortener
-- [wiki.n1l.ru](https://wiki.n1l.ru) — wiki
-- [cdn.n1l.ru](https://cdn.n1l.ru) — static CDN
-- [dash.n1l.ru](https://dash.n1l.ru) — dashboard
-- [api.n1l.ru](https://api.n1l.ru) — static API
+- link shortener
+- wiki
+- static CDN
+- dashboard
+- static API (status endpoint)
+- two landing pages
 
 Status: [api.n1l.ru/v1/status.json](https://api.n1l.ru/v1/status.json)
 
