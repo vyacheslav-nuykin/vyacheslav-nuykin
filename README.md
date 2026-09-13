@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://cdn.n1l.ru/media/svg/profile.svg" alt="Profile" width="820"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.n1l.ru/media/svg/profile-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.n1l.ru/media/svg/profile-light.svg">
+    <img src="https://cdn.n1l.ru/media/svg/profile-dark.svg" alt="Vyacheslav Nuykin" width="820"/>
+  </picture>
 </div>
 
 <div align="center">
